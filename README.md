@@ -1,4 +1,3 @@
-Demo
-
-some descrption!
-GitHub is awesome.
+# Dummy Repo
+- GitHub is awesome.
+- Hello,saikat here.
